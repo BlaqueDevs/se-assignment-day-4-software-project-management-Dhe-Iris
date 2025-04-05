@@ -11,6 +11,7 @@ project managers can ensure deadlines are met by:
 5.Allocating resource effeciently and ensuring team membeers have what they need
 6.identifying and mitiating rrisks early
 7.quality control
+8.To avoid over-budgeting
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 answer:Effective control cost control Ensures optimal use of human, financial,and material resources and it Prevents resource overallocation and bottlenecks.
